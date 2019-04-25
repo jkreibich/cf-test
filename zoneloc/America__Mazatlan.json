@@ -1,0 +1,68 @@
+[
+  {
+    "name": "MDT",
+    "start": 1554627600,
+    "offset": -21600,
+    "dst": true
+  },
+  {
+    "name": "MST",
+    "start": 1572163200,
+    "offset": -25200,
+    "dst": false
+  },
+  {
+    "name": "MDT",
+    "start": 1586077200,
+    "offset": -21600,
+    "dst": true
+  },
+  {
+    "name": "MST",
+    "start": 1603612800,
+    "offset": -25200,
+    "dst": false
+  },
+  {
+    "name": "MDT",
+    "start": 1617526800,
+    "offset": -21600,
+    "dst": true
+  },
+  {
+    "name": "MST",
+    "start": 1635667200,
+    "offset": -25200,
+    "dst": false
+  },
+  {
+    "name": "MDT",
+    "start": 1648976400,
+    "offset": -21600,
+    "dst": true
+  },
+  {
+    "name": "MST",
+    "start": 1667116800,
+    "offset": -25200,
+    "dst": false
+  },
+  {
+    "name": "MDT",
+    "start": 1680426000,
+    "offset": -21600,
+    "dst": true
+  },
+  {
+    "name": "MST",
+    "start": 1698566400,
+    "offset": -25200,
+    "dst": false
+  },
+  {
+    "name": "MDT",
+    "start": 1712480400,
+    "offset": -21600,
+    "dst": true
+  }
+]

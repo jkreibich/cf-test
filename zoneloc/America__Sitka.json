@@ -1,0 +1,68 @@
+[
+  {
+    "name": "AKDT",
+    "start": 1552215600,
+    "offset": -28800,
+    "dst": true
+  },
+  {
+    "name": "AKST",
+    "start": 1572775200,
+    "offset": -32400,
+    "dst": false
+  },
+  {
+    "name": "AKDT",
+    "start": 1583665200,
+    "offset": -28800,
+    "dst": true
+  },
+  {
+    "name": "AKST",
+    "start": 1604224800,
+    "offset": -32400,
+    "dst": false
+  },
+  {
+    "name": "AKDT",
+    "start": 1615719600,
+    "offset": -28800,
+    "dst": true
+  },
+  {
+    "name": "AKST",
+    "start": 1636279200,
+    "offset": -32400,
+    "dst": false
+  },
+  {
+    "name": "AKDT",
+    "start": 1647169200,
+    "offset": -28800,
+    "dst": true
+  },
+  {
+    "name": "AKST",
+    "start": 1667728800,
+    "offset": -32400,
+    "dst": false
+  },
+  {
+    "name": "AKDT",
+    "start": 1678618800,
+    "offset": -28800,
+    "dst": true
+  },
+  {
+    "name": "AKST",
+    "start": 1699178400,
+    "offset": -32400,
+    "dst": false
+  },
+  {
+    "name": "AKDT",
+    "start": 1710068400,
+    "offset": -28800,
+    "dst": true
+  }
+]

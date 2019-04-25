@@ -1,0 +1,63 @@
+
+
+body {
+  text-align: center;
+  background-color: #222;
+}
+
+.WorldClock {
+  width: 500px;
+  text-align: center;
+  font-family: "Verdana",san-serif;
+  font-weight: bold;
+  display: inline-block;
+  color: #FFF;
+  background-color: #444;
+  border-width: 5px;
+  border-color: #000;
+  border-style: solid;
+  margin: 5px;
+  padding: 5px;
+  position: relative;
+}
+
+.WorldClockCity {
+  display: inline-block;
+  font-size: 50px;
+}
+
+.WorldClockDayofweek {
+  display: inline-block;
+  padding: 15px 5px 5px 5px;
+  font-size: 24px;
+}
+
+.WorldClockTime {
+  display: inline-block;
+  font-size: 90px;
+  padding: 0px;
+}
+
+.WorldClockDate {
+  display: inline-block;
+  font-size: 30px;
+  padding: 5px;
+}
+
+.WorldClockZone {
+  display: inline-block;
+  font-size: 10px;
+  padding: 5px;
+}
+
+.WorldClockOffset {
+  display: inline-block;
+  font-size: 10px;
+  padding: 5px;
+}
+
+.WorldClockDst {
+  display: inline-block;
+  font-size: 10px;
+  padding: 5px;
+}

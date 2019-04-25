@@ -1,0 +1,68 @@
+[
+  {
+    "name": "-04",
+    "start": 1554606000,
+    "offset": -14400,
+    "dst": false
+  },
+  {
+    "name": "-03",
+    "start": 1567915200,
+    "offset": -10800,
+    "dst": true
+  },
+  {
+    "name": "-04",
+    "start": 1586055600,
+    "offset": -14400,
+    "dst": false
+  },
+  {
+    "name": "-03",
+    "start": 1599364800,
+    "offset": -10800,
+    "dst": true
+  },
+  {
+    "name": "-04",
+    "start": 1617505200,
+    "offset": -14400,
+    "dst": false
+  },
+  {
+    "name": "-03",
+    "start": 1630814400,
+    "offset": -10800,
+    "dst": true
+  },
+  {
+    "name": "-04",
+    "start": 1648954800,
+    "offset": -14400,
+    "dst": false
+  },
+  {
+    "name": "-03",
+    "start": 1662264000,
+    "offset": -10800,
+    "dst": true
+  },
+  {
+    "name": "-04",
+    "start": 1680404400,
+    "offset": -14400,
+    "dst": false
+  },
+  {
+    "name": "-03",
+    "start": 1693713600,
+    "offset": -10800,
+    "dst": true
+  },
+  {
+    "name": "-04",
+    "start": 1712458800,
+    "offset": -14400,
+    "dst": false
+  }
+]

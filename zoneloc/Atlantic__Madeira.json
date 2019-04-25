@@ -1,0 +1,68 @@
+[
+  {
+    "name": "WEST",
+    "start": 1553994000,
+    "offset": 3600,
+    "dst": true
+  },
+  {
+    "name": "WET",
+    "start": 1572138000,
+    "offset": 0,
+    "dst": false
+  },
+  {
+    "name": "WEST",
+    "start": 1585443600,
+    "offset": 3600,
+    "dst": true
+  },
+  {
+    "name": "WET",
+    "start": 1603587600,
+    "offset": 0,
+    "dst": false
+  },
+  {
+    "name": "WEST",
+    "start": 1616893200,
+    "offset": 3600,
+    "dst": true
+  },
+  {
+    "name": "WET",
+    "start": 1635642000,
+    "offset": 0,
+    "dst": false
+  },
+  {
+    "name": "WEST",
+    "start": 1648342800,
+    "offset": 3600,
+    "dst": true
+  },
+  {
+    "name": "WET",
+    "start": 1667091600,
+    "offset": 0,
+    "dst": false
+  },
+  {
+    "name": "WEST",
+    "start": 1679792400,
+    "offset": 3600,
+    "dst": true
+  },
+  {
+    "name": "WET",
+    "start": 1698541200,
+    "offset": 0,
+    "dst": false
+  },
+  {
+    "name": "WEST",
+    "start": 1711846800,
+    "offset": 3600,
+    "dst": true
+  }
+]

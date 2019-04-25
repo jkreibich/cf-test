@@ -1,0 +1,68 @@
+[
+  {
+    "name": "ACST",
+    "start": 1554568200,
+    "offset": 34200,
+    "dst": false
+  },
+  {
+    "name": "ACDT",
+    "start": 1570293000,
+    "offset": 37800,
+    "dst": true
+  },
+  {
+    "name": "ACST",
+    "start": 1586017800,
+    "offset": 34200,
+    "dst": false
+  },
+  {
+    "name": "ACDT",
+    "start": 1601742600,
+    "offset": 37800,
+    "dst": true
+  },
+  {
+    "name": "ACST",
+    "start": 1617467400,
+    "offset": 34200,
+    "dst": false
+  },
+  {
+    "name": "ACDT",
+    "start": 1633192200,
+    "offset": 37800,
+    "dst": true
+  },
+  {
+    "name": "ACST",
+    "start": 1648917000,
+    "offset": 34200,
+    "dst": false
+  },
+  {
+    "name": "ACDT",
+    "start": 1664641800,
+    "offset": 37800,
+    "dst": true
+  },
+  {
+    "name": "ACST",
+    "start": 1680366600,
+    "offset": 34200,
+    "dst": false
+  },
+  {
+    "name": "ACDT",
+    "start": 1696091400,
+    "offset": 37800,
+    "dst": true
+  },
+  {
+    "name": "ACST",
+    "start": 1712421000,
+    "offset": 34200,
+    "dst": false
+  }
+]

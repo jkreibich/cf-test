@@ -1,0 +1,74 @@
+[
+  {
+    "name": "+01",
+    "start": 1529200800,
+    "offset": 3600,
+    "dst": true
+  },
+  {
+    "name": "+00",
+    "start": 1557021600,
+    "offset": 0,
+    "dst": true
+  },
+  {
+    "name": "+01",
+    "start": 1560045600,
+    "offset": 3600,
+    "dst": false
+  },
+  {
+    "name": "+00",
+    "start": 1587261600,
+    "offset": 0,
+    "dst": true
+  },
+  {
+    "name": "+01",
+    "start": 1590285600,
+    "offset": 3600,
+    "dst": false
+  },
+  {
+    "name": "+00",
+    "start": 1618106400,
+    "offset": 0,
+    "dst": true
+  },
+  {
+    "name": "+01",
+    "start": 1621130400,
+    "offset": 3600,
+    "dst": false
+  },
+  {
+    "name": "+00",
+    "start": 1648346400,
+    "offset": 0,
+    "dst": true
+  },
+  {
+    "name": "+01",
+    "start": 1651975200,
+    "offset": 3600,
+    "dst": false
+  },
+  {
+    "name": "+00",
+    "start": 1679191200,
+    "offset": 0,
+    "dst": true
+  },
+  {
+    "name": "+01",
+    "start": 1682215200,
+    "offset": 3600,
+    "dst": false
+  },
+  {
+    "name": "+00",
+    "start": 1710036000,
+    "offset": 0,
+    "dst": true
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "name": "+0430",
+    "start": 1553200200,
+    "offset": 16200,
+    "dst": true
+  },
+  {
+    "name": "+0330",
+    "start": 1569094200,
+    "offset": 12600,
+    "dst": false
+  },
+  {
+    "name": "+0430",
+    "start": 1584736200,
+    "offset": 16200,
+    "dst": true
+  },
+  {
+    "name": "+0330",
+    "start": 1600630200,
+    "offset": 12600,
+    "dst": false
+  },
+  {
+    "name": "+0430",
+    "start": 1616358600,
+    "offset": 16200,
+    "dst": true
+  },
+  {
+    "name": "+0330",
+    "start": 1632252600,
+    "offset": 12600,
+    "dst": false
+  },
+  {
+    "name": "+0430",
+    "start": 1647894600,
+    "offset": 16200,
+    "dst": true
+  },
+  {
+    "name": "+0330",
+    "start": 1663788600,
+    "offset": 12600,
+    "dst": false
+  },
+  {
+    "name": "+0430",
+    "start": 1679430600,
+    "offset": 16200,
+    "dst": true
+  },
+  {
+    "name": "+0330",
+    "start": 1695324600,
+    "offset": 12600,
+    "dst": false
+  },
+  {
+    "name": "+0430",
+    "start": 1710966600,
+    "offset": 16200,
+    "dst": true
+  }
+]

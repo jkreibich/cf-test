@@ -1,0 +1,68 @@
+[
+  {
+    "name": "-06",
+    "start": 1554606000,
+    "offset": -21600,
+    "dst": false
+  },
+  {
+    "name": "-05",
+    "start": 1567915200,
+    "offset": -18000,
+    "dst": true
+  },
+  {
+    "name": "-06",
+    "start": 1586055600,
+    "offset": -21600,
+    "dst": false
+  },
+  {
+    "name": "-05",
+    "start": 1599364800,
+    "offset": -18000,
+    "dst": true
+  },
+  {
+    "name": "-06",
+    "start": 1617505200,
+    "offset": -21600,
+    "dst": false
+  },
+  {
+    "name": "-05",
+    "start": 1630814400,
+    "offset": -18000,
+    "dst": true
+  },
+  {
+    "name": "-06",
+    "start": 1648954800,
+    "offset": -21600,
+    "dst": false
+  },
+  {
+    "name": "-05",
+    "start": 1662264000,
+    "offset": -18000,
+    "dst": true
+  },
+  {
+    "name": "-06",
+    "start": 1680404400,
+    "offset": -21600,
+    "dst": false
+  },
+  {
+    "name": "-05",
+    "start": 1693713600,
+    "offset": -18000,
+    "dst": true
+  },
+  {
+    "name": "-06",
+    "start": 1712458800,
+    "offset": -21600,
+    "dst": false
+  }
+]

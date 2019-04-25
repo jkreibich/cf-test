@@ -1,0 +1,68 @@
+[
+  {
+    "name": "NZST",
+    "start": 1554559200,
+    "offset": 43200,
+    "dst": false
+  },
+  {
+    "name": "NZDT",
+    "start": 1569679200,
+    "offset": 46800,
+    "dst": true
+  },
+  {
+    "name": "NZST",
+    "start": 1586008800,
+    "offset": 43200,
+    "dst": false
+  },
+  {
+    "name": "NZDT",
+    "start": 1601128800,
+    "offset": 46800,
+    "dst": true
+  },
+  {
+    "name": "NZST",
+    "start": 1617458400,
+    "offset": 43200,
+    "dst": false
+  },
+  {
+    "name": "NZDT",
+    "start": 1632578400,
+    "offset": 46800,
+    "dst": true
+  },
+  {
+    "name": "NZST",
+    "start": 1648908000,
+    "offset": 43200,
+    "dst": false
+  },
+  {
+    "name": "NZDT",
+    "start": 1664028000,
+    "offset": 46800,
+    "dst": true
+  },
+  {
+    "name": "NZST",
+    "start": 1680357600,
+    "offset": 43200,
+    "dst": false
+  },
+  {
+    "name": "NZDT",
+    "start": 1695477600,
+    "offset": 46800,
+    "dst": true
+  },
+  {
+    "name": "NZST",
+    "start": 1712412000,
+    "offset": 43200,
+    "dst": false
+  }
+]

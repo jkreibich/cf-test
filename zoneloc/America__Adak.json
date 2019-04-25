@@ -1,0 +1,68 @@
+[
+  {
+    "name": "HDT",
+    "start": 1552219200,
+    "offset": -32400,
+    "dst": true
+  },
+  {
+    "name": "HST",
+    "start": 1572778800,
+    "offset": -36000,
+    "dst": false
+  },
+  {
+    "name": "HDT",
+    "start": 1583668800,
+    "offset": -32400,
+    "dst": true
+  },
+  {
+    "name": "HST",
+    "start": 1604228400,
+    "offset": -36000,
+    "dst": false
+  },
+  {
+    "name": "HDT",
+    "start": 1615723200,
+    "offset": -32400,
+    "dst": true
+  },
+  {
+    "name": "HST",
+    "start": 1636282800,
+    "offset": -36000,
+    "dst": false
+  },
+  {
+    "name": "HDT",
+    "start": 1647172800,
+    "offset": -32400,
+    "dst": true
+  },
+  {
+    "name": "HST",
+    "start": 1667732400,
+    "offset": -36000,
+    "dst": false
+  },
+  {
+    "name": "HDT",
+    "start": 1678622400,
+    "offset": -32400,
+    "dst": true
+  },
+  {
+    "name": "HST",
+    "start": 1699182000,
+    "offset": -36000,
+    "dst": false
+  },
+  {
+    "name": "HDT",
+    "start": 1710072000,
+    "offset": -32400,
+    "dst": true
+  }
+]

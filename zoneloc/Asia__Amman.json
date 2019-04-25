@@ -1,0 +1,68 @@
+[
+  {
+    "name": "EEST",
+    "start": 1553810400,
+    "offset": 10800,
+    "dst": true
+  },
+  {
+    "name": "EET",
+    "start": 1571954400,
+    "offset": 7200,
+    "dst": false
+  },
+  {
+    "name": "EEST",
+    "start": 1585260000,
+    "offset": 10800,
+    "dst": true
+  },
+  {
+    "name": "EET",
+    "start": 1604008800,
+    "offset": 7200,
+    "dst": false
+  },
+  {
+    "name": "EEST",
+    "start": 1616709600,
+    "offset": 10800,
+    "dst": true
+  },
+  {
+    "name": "EET",
+    "start": 1635458400,
+    "offset": 7200,
+    "dst": false
+  },
+  {
+    "name": "EEST",
+    "start": 1648764000,
+    "offset": 10800,
+    "dst": true
+  },
+  {
+    "name": "EET",
+    "start": 1666908000,
+    "offset": 7200,
+    "dst": false
+  },
+  {
+    "name": "EEST",
+    "start": 1680213600,
+    "offset": 10800,
+    "dst": true
+  },
+  {
+    "name": "EET",
+    "start": 1698357600,
+    "offset": 7200,
+    "dst": false
+  },
+  {
+    "name": "EEST",
+    "start": 1711663200,
+    "offset": 10800,
+    "dst": true
+  }
+]
